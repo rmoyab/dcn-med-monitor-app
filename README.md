@@ -17,6 +17,10 @@ Angular-based frontend for MedMonitorApp, providing dashboards, patient detail v
 - MSAL (Azure AD authentication)
 - Tailwind CSS (styling)
 
+## Preview
+
+![App Preview](https://res.cloudinary.com/dtfzj5caw/image/upload/v1768613189/github-repos/med-monitor-app/1_qzeb0v.webp)
+
 ## Structure
 
 ```text
